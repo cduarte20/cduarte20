@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Charly 👋</h1>
+<p align="center"><b>Systems Engineer · Software development & automation · AI Builder</b></p>
 
-<!--
-**cduarte20/cduarte20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+charly@github ~ $ neofetch
+-----------------------------
+Nombre:     Carlos "Charly" Duarte
+Rol:        Systems Engineer
+Ubicación:  Nuevo León, MX
+Enfoque:    Automatización, APIs, agentes de IA
+Lenguajes:  TypeScript, JavaScript, Python, Java
+Stack:      Next.js, Node, Prisma, Capacitor, Railway
+Proyectos:  SarAi (agentes WhatsApp con IA), SarAi Web Studio
+Lema:       Always learning, always shipping 🚀
+```
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://charlyduarte.mx"><img src="https://img.shields.io/badge/Web-charlyduarte.mx-000?style=for-the-badge"/></a>
+  <a href="https://sarai.carsagi.app"><img src="https://img.shields.io/badge/SarAi-Agency-6E40C9?style=for-the-badge"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cduarte20&layout=compact&theme=tokyonight"/>
+</p>
